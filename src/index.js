@@ -24,6 +24,7 @@ const BASE_API_NATIONAL_HOLIDAYS = "https://brasilapi.com.br/api/feriados/v1/";
 */
 
 function getNationalHolidays(year) {
+  return year
   // implemente aqui
 }
 
@@ -37,6 +38,7 @@ function getNationalHolidays(year) {
 */
 function getCarnivalDatesFrom2020To2030() {
   // implemente aqui
+  return null
 }
 
 module.exports = {
